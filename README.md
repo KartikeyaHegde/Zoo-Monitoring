@@ -1,2 +1,2 @@
 # Zoo Monitoring
-This repository illustates the problem  of Monitoring of animals in Zoo
+This repository illustrates the problem  of Animal Monitoring in Zoo
